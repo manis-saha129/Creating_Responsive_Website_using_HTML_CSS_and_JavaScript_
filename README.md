@@ -1,0 +1,7 @@
+![Screenshot (78)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/7868bd73-2ca8-4084-a0cf-d40825b5ad6d)
+![Screenshot (79)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/1feae384-c1f1-4128-ad0d-91ba9179551f)
+![Screenshot (80)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/6fce7829-3e12-467b-a815-9a6c16813324)
+![Screenshot (81)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/2b93a208-d8c4-4a90-a4b4-e6af8f13b641)
+![Screenshot (82)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/09f70d6f-e302-470d-98a5-19b9dd3f190f)
+![Screenshot (83)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/14e1974d-8652-4c03-a648-f69952d6a93c)
+![Screenshot (84)](https://github.com/manis-saha129/creating_responsive_website_using_HTML_CSS_and_JavaScript_/assets/139264745/9a39a534-1eba-4d5f-9059-7e4f1bcff17e)
